@@ -4,7 +4,7 @@ ZAKRYTE = -2
 FLAGA = -3
 
 POZIOM_TRUDNOSCI = {
-    "łatwy":{
+    "latwy":{
         "szerokosc": 9,
         "wysokosc": 9,
         "miny": 10
